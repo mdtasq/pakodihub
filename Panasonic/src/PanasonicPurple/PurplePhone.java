@@ -24,10 +24,7 @@ public class PurplePhone {
 		target2.click();
 	}
 			//	@Test(priority=2)
-//	@Parameters("url")
-//	public void g(String url) {
-//		driver.get(url);
-//	}
+
 
 	@BeforeMethod
 	public void start() {
